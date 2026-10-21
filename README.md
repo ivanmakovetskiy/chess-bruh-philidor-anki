@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chess Bruh — Philidor Speedrun ♟
+# Chess Bruh — Philidor Speedrun
 
 An image-based Anki deck inspired by **chessbrah’s Philidor speedrun**, played as **redwinereduction**.
 
